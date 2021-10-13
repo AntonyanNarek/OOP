@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Компиляция исходников
+
+javac -sourcepath ./src -classpath ./lib/logback-core-1.2.6.jar:./lib/logback-classic-1.2.6.jar:./lib/slf4j-api-1.7.32.jar -d bin ./src/edu/csf/oop/monopoly/Main.java
+
+# Создание jar архива
+# Запускается командой java -jar путь к архиву
+
+jar --create --file monopoly_att1.jar --manifest manifest.mf -C ./bin/ .
