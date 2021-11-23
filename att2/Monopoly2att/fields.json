@@ -1,0 +1,242 @@
+[
+  {
+    "type": 0,
+    "price": 600,
+    "whoseField": 0,
+    "rent": 0
+  },
+  {
+    "type": 0,
+    "price": 650,
+    "whoseField": 0,
+    "rent": 15
+  },
+  {
+    "type": 1,
+    "price": 700,
+    "whoseField": 0,
+    "rent": 30
+  },
+  {
+    "type": 0,
+    "price": 750,
+    "whoseField": 0,
+    "rent": 45
+  },
+  {
+    "type": 2,
+    "price": 800,
+    "whoseField": 0,
+    "rent": 2000
+  },
+  {
+    "type": 0,
+    "price": 850,
+    "whoseField": 0,
+    "rent": 75
+  },
+  {
+    "type": 0,
+    "price": 900,
+    "whoseField": 0,
+    "rent": 90
+  },
+  {
+    "type": 0,
+    "price": 950,
+    "whoseField": 0,
+    "rent": 105
+  },
+  {
+    "type": 1,
+    "price": 1000,
+    "whoseField": 0,
+    "rent": 120
+  },
+  {
+    "type": 0,
+    "price": 1050,
+    "whoseField": 0,
+    "rent": 135
+  },
+  {
+    "type": 0,
+    "price": 1100,
+    "whoseField": 2,
+    "rent": 150
+  },
+  {
+    "type": 0,
+    "price": 1150,
+    "whoseField": 1,
+    "rent": 165
+  },
+  {
+    "type": 0,
+    "price": 1200,
+    "whoseField": 2,
+    "rent": 180
+  },
+  {
+    "type": 1,
+    "price": 1250,
+    "whoseField": 0,
+    "rent": 195
+  },
+  {
+    "type": 0,
+    "price": 1300,
+    "whoseField": 0,
+    "rent": 210
+  },
+  {
+    "type": 0,
+    "price": 1350,
+    "whoseField": 0,
+    "rent": 225
+  },
+  {
+    "type": 0,
+    "price": 1400,
+    "whoseField": 0,
+    "rent": 240
+  },
+  {
+    "type": 1,
+    "price": 1450,
+    "whoseField": 0,
+    "rent": 255
+  },
+  {
+    "type": 0,
+    "price": 1500,
+    "whoseField": 0,
+    "rent": 270
+  },
+  {
+    "type": 0,
+    "price": 1550,
+    "whoseField": 1,
+    "rent": 285
+  },
+  {
+    "type": 4,
+    "price": 1600,
+    "whoseField": 0,
+    "rent": 300
+  },
+  {
+    "type": 0,
+    "price": 1650,
+    "whoseField": 0,
+    "rent": 315
+  },
+  {
+    "type": 0,
+    "price": 1700,
+    "whoseField": 0,
+    "rent": 330
+  },
+  {
+    "type": 1,
+    "price": 1750,
+    "whoseField": 0,
+    "rent": 345
+  },
+  {
+    "type": 0,
+    "price": 1800,
+    "whoseField": 0,
+    "rent": 360
+  },
+  {
+    "type": 0,
+    "price": 1850,
+    "whoseField": 0,
+    "rent": 375
+  },
+  {
+    "type": 0,
+    "price": 1900,
+    "whoseField": 0,
+    "rent": 390
+  },
+  {
+    "type": 1,
+    "price": 1950,
+    "whoseField": 0,
+    "rent": 405
+  },
+  {
+    "type": 0,
+    "price": 2000,
+    "whoseField": 0,
+    "rent": 420
+  },
+  {
+    "type": 0,
+    "price": 2050,
+    "whoseField": 0,
+    "rent": 435
+  },
+  {
+    "type": 3,
+    "price": 2100,
+    "whoseField": 0,
+    "rent": 450
+  },
+  {
+    "type": 0,
+    "price": 2150,
+    "whoseField": 0,
+    "rent": 465
+  },
+  {
+    "type": 0,
+    "price": 2200,
+    "whoseField": 0,
+    "rent": 480
+  },
+  {
+    "type": 1,
+    "price": 2250,
+    "whoseField": 0,
+    "rent": 495
+  },
+  {
+    "type": 0,
+    "price": 2300,
+    "whoseField": 0,
+    "rent": 510
+  },
+  {
+    "type": 0,
+    "price": 2350,
+    "whoseField": 0,
+    "rent": 525
+  },
+  {
+    "type": 2,
+    "price": 2400,
+    "whoseField": 0,
+    "rent": 1000
+  },
+  {
+    "type": 0,
+    "price": 2450,
+    "whoseField": 0,
+    "rent": 555
+  },
+  {
+    "type": 1,
+    "price": 2500,
+    "whoseField": 0,
+    "rent": 570
+  },
+  {
+    "type": 0,
+    "price": 2550,
+    "whoseField": 0,
+    "rent": 585
+  }
+]
