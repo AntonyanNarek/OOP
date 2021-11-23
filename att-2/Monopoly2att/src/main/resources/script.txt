@@ -1,0 +1,11 @@
+/dice
+y
+/dice
+y
+/dice
+y
+/cards
+/dice
+y
+/surrender
+/surrender

@@ -1,0 +1,33 @@
+23.11.2021 12:50:27.733 [main] INFO   monopoly.Main - Игра началась
+23.11.2021 12:50:27.749 [main] INFO   monopoly.Main - Ход игрока 1
+23.11.2021 12:50:30.757 [main] INFO   monopoly.Main - На кубиках выпало число: 8
+23.11.2021 12:50:30.757 [main] INFO   monopoly.Main - Игрок встал на поле:'Событие'
+23.11.2021 12:50:30.757 [main] INFO   monopoly.Main - Получение вознаграждения в размере 1000
+23.11.2021 12:50:30.757 [main] INFO   monopoly.Main - Ход игрока 2
+23.11.2021 12:50:36.765 [main] INFO   monopoly.Main - На кубиках выпало число: 3
+23.11.2021 12:50:36.765 [main] INFO   monopoly.Main - Игрок встал на поле:'Chanel'
+23.11.2021 12:50:39.767 [main] INFO   monopoly.Main - Покупка поля
+23.11.2021 12:50:39.767 [main] INFO   monopoly.Main - Ход игрока 3
+23.11.2021 12:50:42.779 [main] INFO   monopoly.Main - На кубиках выпало число: 6
+23.11.2021 12:50:42.779 [main] INFO   monopoly.Main - Игрок встал на поле:'Puma'
+23.11.2021 12:50:45.784 [main] INFO   monopoly.Main - Покупка поля
+23.11.2021 12:50:45.784 [main] INFO   monopoly.Main - Ход игрока 1
+23.11.2021 12:50:51.798 [main] INFO   monopoly.Main - Игрок сдался
+23.11.2021 12:50:51.798 [main] INFO   monopoly.Main - Ход игрока 2
+23.11.2021 12:50:54.810 [main] INFO   monopoly.Main - Игрок сдался
+23.11.2021 12:50:54.810 [main] INFO   monopoly.Main - Победил игрок 3
+23.11.2021 12:50:54.810 [main] INFO   monopoly.Main - Запуск демонстраицонного теста
+23.11.2021 12:55:03.433 [main] INFO   monopoly.Main - Новая игра
+23.11.2021 12:55:05.498 [main] INFO   monopoly.Main - Игра началась
+23.11.2021 12:55:05.498 [main] INFO   monopoly.Main - Ход игрока 1
+23.11.2021 12:55:07.200 [main] INFO   monopoly.Main - На кубиках выпало число: 6
+23.11.2021 12:55:07.200 [main] INFO   monopoly.Main - Игрок встал на поле:'Puma'
+23.11.2021 12:55:08.747 [main] INFO   monopoly.Main - Покупка поля
+23.11.2021 12:55:08.747 [main] INFO   monopoly.Main - Ход игрока 2
+23.11.2021 12:55:10.747 [main] INFO   monopoly.Main - На кубиках выпало число: 8
+23.11.2021 12:55:10.747 [main] INFO   monopoly.Main - Игрок встал на поле:'Событие'
+23.11.2021 12:55:10.747 [main] INFO   monopoly.Main - Оплата штрафа в размере 1000
+23.11.2021 12:55:10.747 [main] INFO   monopoly.Main - Ход игрока 1
+23.11.2021 12:55:15.495 [main] INFO   monopoly.Main - Сохранение игры
+23.11.2021 12:55:23.213 [main] INFO   monopoly.Main - Загрузка сохранения игры
+23.11.2021 12:55:23.432 [main] INFO   monopoly.Main - Ход игрока 1
